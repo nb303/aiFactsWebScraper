@@ -1,0 +1,210 @@
+[
+ {
+  "ID": 25675,
+  "Description": "The concept of artificial intelligence, in popular culture, often goes hand in hand with robots, but the two are not synonymous or even necessarily linked. In fact, neither term has a universally set or agreed upon definition.[10]"
+ },
+ {
+  "ID": 25778,
+  "Description": "The term \"artificial intelligence\" originated in 1956, as a name for a summer conference held at Dartmouth University organized by computer scientist John McCarthy.[2]"
+ },
+ {
+  "ID": 25653,
+  "Description": "In his book Politics, Greek philosopher Aristotle briefly imagines machines capable of performing tasks by themselves, which would make servants and slaves unnecessary.[4]"
+ },
+ {
+  "ID": 25771,
+  "Description": "In the current era of \"big data,\" artificial intelligence is operative all around us, in banking, technology, marketing, entertainment, engineering, and many other fields.[3]"
+ },
+ {
+  "ID": 25657,
+  "Description": "Several philosophers of the past—notably Aristotle, Albertus Magnus, Thomas Hobbes, and René Descartes—imagined machines that could act and, perhaps, even think on their own.[10]"
+ },
+ {
+  "ID": 25672,
+  "Description": "In 1950, British mathematician Alan Turing published a seminal paper on artificial intelligence entitled \"Computing Machinery and Intelligence.\" In it he proposed his famous test of artificial intelligence, now known as \"The Turing Test.\"[3]"
+ },
+ {
+  "ID": 25654,
+  "Description": "Leonardo da Vinci produced basic designs for a humanoid robot, fashioned like a knight, around 1495.[10]"
+ },
+ {
+  "ID": 25659,
+  "Description": "The word \"robot\" first appears in Czech playwright Karel Čapek's play R.U.R. (Rossum's Universal Robots). The automated workers are called \"robots,\" which is derived from the Czech \"robota,\" meaning \"forced labor.\"[10]"
+ },
+ {
+  "ID": 25655,
+  "Description": "British philosopher Thomas Hobbes is sometimes referred to as the \"patriarch of artificial intelligence,\" for his early suggestion that artificial life-forms could conceivably be created.[10]"
+ },
+ {
+  "ID": 25656,
+  "Description": "One of the first robots, or \"automatons,\" ever made was a mechanical duck, created by French inventor Jacques de Vaucanson in 1738. The duck could eat corn, drink water, flap its wings, and quack.[10]"
+ },
+ {
+  "ID": 25664,
+  "Description": "A binary communication system, or binary code, the basis for all computer language and programming, was first proposed by G.W. Leibniz in the 17th century. George Boole and Alan Turing, among others, later developed the idea for programming computers.[10]"
+ },
+ {
+  "ID": 25661,
+  "Description": "Isaac Asimov popularized the idea of robots with notable science fiction books like I, Robot and The Caves of Steel.[10]"
+ },
+ {
+  "ID": 25662,
+  "Description": "Blaise Pascal and G. W. Leibniz both invented mechanical calculators in the 1600s that people could use to carry out basic arithmetical operations.[10]"
+ },
+ {
+  "ID": 25663,
+  "Description": "During the 1830s, English mathematician and inventor Charles Babbage designed an \"analytical engine,\" a machine that could engage in general computation. The proposed steam-powered machine could theoretically store results and be programmed, but it was too difficult to make, given technological limitations of the time.[10]"
+ },
+ {
+  "ID": 25660,
+  "Description": "German philosopher G. W. Leibniz proposed an idea for a \"universal language\" that would allow any conceivable problem to be solved. Ideas like this helped set the stage for computer languages and artificial intelligence.[10]"
+ },
+ {
+  "ID": 25658,
+  "Description": "Composer Jacques Offenbach's 1881 opera Les Contes d'Hoffman (The Tales of Hoffman) features a life-sized robotic doll named Olympia.[10]"
+ },
+ {
+  "ID": 25665,
+  "Description": "The origins of computer \"software\" can be traced back to the work of logicians and mathematicians such as Leibniz, Boole, and Frege. However, in addition to software, a \"thinking machine\" requires hardware, or a mechanical \"brain\" capable of running the software. Early attempts to create thinking machines were hampered by technological limitations.[10]"
+ },
+ {
+  "ID": 25668,
+  "Description": "A milestone for artificial intelligence was reached in 1997, when IBM supercomputer Deep Blue defeated world chess champion Garry Kasparov. The Russian champion defeated Deep Blue in their first encounter a year before, but in 1997, Deep Blue won two games while Kasparov only won one, with the last two ending as ties.[17]"
+ },
+ {
+  "ID": 25781,
+  "Description": "In the early 1990s, MIT professor Rodney Brooks was instrumental in revitalizing AI research by turning away from the old \"top-down\" approach, which favored construction of overarching central logic systems, towards a more modular system of AI that reflects the neural net structure of the human brain.[2]"
+ },
+ {
+  "ID": 25666,
+  "Description": "Legend holds that 13th-century German theologian St. Albertus Magnus built an automaton, or human-shaped robot, capable of speech. His student St. Thomas Aquinas destroyed it out of fear for his life when he unexpectedly encountered it moving and speaking.[5]"
+ },
+ {
+  "ID": 25673,
+  "Description": "Alan Turing proposed a theoretical way to test whether a machine was truly \"intelligent.\" In a game he called the \"imitation game,\" an interrogator asked questions to a machine and a human in separate rooms, not knowing which was which. If the computer could successfully trick the interrogator into believing it was the human, it was, Turing argued, \"intelligent.\"[11]"
+ },
+ {
+  "ID": 25667,
+  "Description": "Depictions of robots that helped spark popular imagination in the early 20th century included the Tin Man from The Wizard of Oz and the humanoid robot in Fritz Lang's Metropolis.[3]"
+ },
+ {
+  "ID": 25674,
+  "Description": "Legend has it that French mathematician and philosopher René Descartes (1596–1650) built a mechanical daughter for himself after his own daughter died as a girl. The automaton was discovered by sailors on a ship Descartes was taking to Sweden, and it was thrown overboard.[19]"
+ },
+ {
+  "ID": 25676,
+  "Description": "A robot might most accurately be defined as an machine that can be programmed to carry out complex tasks autonomously. Most \"robots\" used in manufacturing today are robotic arms programmed to complete tasks like arc welding, material handling, painting, packaging, and so forth.[18]"
+ },
+ {
+  "ID": 25680,
+  "Description": "The quest for true artificial intelligence took off during the 1960s and 70s. Hopes were high, with some experts estimating true human-level intelligence by the mid 1970s, a feat that has yet to be realized as of 2020.[3]"
+ },
+ {
+  "ID": 25677,
+  "Description": "In 1956, scientists Allen Newell, Cliff Shaw, and Herbert Simon presented what is generally considered to be the first AI program, called \"Logic Theorist.\"[3]"
+ },
+ {
+  "ID": 25678,
+  "Description": "The biggest initial hurdle to overcome in the quest for computer intelligence was how to store data. Early computers could compute, much like early mechanical calculators, but not store.[3]"
+ },
+ {
+  "ID": 25681,
+  "Description": "Tech mogul Elon Musk is outspoken regarding the potential dangers to humankind posed by artificial intelligence. He has called AI \"humanity's greatest existential threat\" and compared the attempts to create it to \"summoning the demon.\"[12]"
+ },
+ {
+  "ID": 25682,
+  "Description": "A popular myth regarding existing artificially intelligent systems is that they possess \"general\" intelligence, of the sort possessed by a human being. While some argue that this will happen in the future, current advanced AIs have very specific, limited domains in which they calculate and \"think.\"[6]"
+ },
+ {
+  "ID": 25679,
+  "Description": "In 1968, science fiction author Arthur C. Clarke predicted that by 2001, artificially intelligent machines would exist that matched or exceeded human intelligence. Such a machine, \"HAL,\" features prominently in the film 2001: A Space Odyssey—screenplay written by Clarke and Stanley Kubrik.[3]"
+ },
+ {
+  "ID": 25772,
+  "Description": "In 2016, the AI computing system AlphaGo, designed by London-based tech firm DeepMind, defeated South Korean Go master Lee Sedol in the ancient Chinese game. AlphaGo's victory was the first time an AI beat a 9-dan professional (the highest rank in Go) without a handicap.[8]"
+ },
+ {
+  "ID": 25683,
+  "Description": "It is possible that supercomputer Deep Blue's famous win over Garry Kasparov was caused in part by a computer bug that caused the program to make a random move. Fearing that the move indicated a change in strategy on the computer's part, Kasparov altered his own, which cost him the game.[17]"
+ },
+ {
+  "ID": 25684,
+  "Description": "As of 2020, AI computer chess programs routinely beat the best human chess players. The most powerful current software, \"Stockfish,\" has an ELO rating of 3438. The highest human rating ever recorded is 2882, by Magnus Carlsen.[15]"
+ },
+ {
+  "ID": 25685,
+  "Description": "A major player in AI development, Google offers its Machine Learning Crash Course for free online.[7]"
+ },
+ {
+  "ID": 25686,
+  "Description": "Since the early days of artificial intelligence, the thought of developing AI has been met with resistance. Some argue that creating intelligence is intrinsically impossible, others that it would be an offense to God, while many worry about the dangers associated with creating thinking machines.[10][11]"
+ },
+ {
+  "ID": 25687,
+  "Description": "Popular movies such as Metropolis, The Terminator, Blade Runner, and The Matrix have voiced apocalyptic warnings about the danger of thinking machines taking over human civilization.[6][10]"
+ },
+ {
+  "ID": 25688,
+  "Description": "A recurring theme in science fiction books, shows, and films is whether or not an artificially intelligent robot would feel emotion or possess other uniquely human cognitive traits. Many doubt that this will ever be the case.[6]"
+ },
+ {
+  "ID": 25689,
+  "Description": "While any computer program that runs algorithms in response to various input might be said to have a degree of \"AI,\" this is not true artificial intelligence, which is perhaps better defined as \"machine learning.\"[1]"
+ },
+ {
+  "ID": 25690,
+  "Description": "There is no set or universally agreed upon definition of artificial intelligence. This is understandable, as there is no universally accepted definition of \"intelligence\" either. These are philosophical questions that cannot be answered in a swift or stipulative fashion.[10]"
+ },
+ {
+  "ID": 25691,
+  "Description": "Popular examples of basic artificial intelligence include prediction tools used by apps like Netflix and Pandora, Apple's digital assistant, Siri, Amazon's Alexa, as well as Amazon's transactional AI, which gathers information about customer choices and suggests other products.[1]"
+ },
+ {
+  "ID": 25692,
+  "Description": "Engineers and programmers are working to create self-driving cars. Realizing the technology, however, poses many difficulties. It is difficult to teach a computer to respond to unexpected things, such as a biker appearing on the road's shoulder or a piece of trash on the highway.[12]"
+ },
+ {
+  "ID": 25782,
+  "Description": "In 2011, IBM's supercomputer \"Watson\" defeated the two greatest Jeopardy! champions, Ken Jennings and Brad Rutter, on the famous game show.[2]"
+ },
+ {
+  "ID": 25698,
+  "Description": "Automata are mechanical devices, usually human or animal-shaped, designed to move or perform various actions on their own, through a series of gears and other mechanical means. The word is Greek in origin and means \"acting of one's own will.\"[14]"
+ },
+ {
+  "ID": 25780,
+  "Description": "Narrowly defined automated computer programs were adopted in the early 1980s by companies such as Digital Equipment Corporation as a way of streamlining ordering procedures. By 1986, the software was saving the company an estimated $40 million annually.[2]"
+ },
+ {
+  "ID": 25769,
+  "Description": "Speech recognition software was first developed and implemented on Windows in 1997.[3]"
+ },
+ {
+  "ID": 25770,
+  "Description": "In the late 1990s and early 2000's, a team at MIT worked to create a robot that could recognize and respond to human facial expressions and displays of emotion.[9]"
+ },
+ {
+  "ID": 25775,
+  "Description": "Artificially intelligent systems, like DeepMind's AlphaGo, use reinforcement learning; it effectively teaches itself to master a given skill through millions of repetitions, charting out the most effective route to success.[8]"
+ },
+ {
+  "ID": 25773,
+  "Description": "In its historic victory over Lee Sedol in the game of Go, AlphaGo made a surprising move. Unlike most of the AI's moves—made on the basis of analyzing the statistical probability that the move would be made by a human master—in move 37 of game two, it made a move that it predicted a human master would make only 1 out of 10,000 times. However, it saw that the move would likely succeed anyway, which it did.[8]"
+ },
+ {
+  "ID": 25774,
+  "Description": "AlphaGo Zero is an updated version of AlphaGo, the famous Go-playing AI that rocked the tech and Go communities in 2016. Unlike the first AlphaGo, Zero was not given human data to analyze, only the rules of the game. After three days of self-play, in which it played millions of matches, Zero was able to beat its predecessor 100 games in a row.[16]"
+ },
+ {
+  "ID": 25776,
+  "Description": "One of the ways recent AIs have been able to learn is through playing video games. Current AI programs can seriously compete against professional players of games like DOTA 2 and StarCraft 2.[13]"
+ },
+ {
+  "ID": 25777,
+  "Description": "While artificial intelligence within video games is currently fairly low-level, game designers and software engineers are working together to create more intelligent, responsive, and interactive video games by incorporating better AI.[13]"
+ },
+ {
+  "ID": 25779,
+  "Description": "The 1970s were known as the \"AI Winter\" because 1960's expectations for swift AI development were never met, leading to funding cuts.[2]"
+ }
+]
